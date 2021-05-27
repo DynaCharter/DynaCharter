@@ -2,7 +2,7 @@
 
 # DynaCharter
 
-DynaCharter is a fanmade charting tool (inspired by Dynamix and DynaMaker) that allows you to create fanmade charts and upload to Dynamite, written with JavaScript.
+DynaCharter is a fanmade charting tool (inspired by Dynamix and Dynamite) that allows you to create fanmade charts and upload to Dynamite, written with JavaScript.
 
 ## Supported Platforms
 
