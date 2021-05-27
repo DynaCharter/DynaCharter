@@ -26,4 +26,4 @@ Some assets used in DynaCharter are borrowed and recreated from Dynamix, created
 
 ## Credits
 
-https://github.com/maximegris/angular-electron
+[Angular](https://github.com/maximegris/angular-electron)
