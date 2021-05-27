@@ -49,6 +49,6 @@ jobs:
         with:
           name: dynamaker-${{ matrix.os }}
           path: |
-            release/Dynacharter*
+            release/DynaCharter*
             !release/*.yml
             !release/*-unpacked/
