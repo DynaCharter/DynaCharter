@@ -10,11 +10,7 @@ Windows, macOS, Linux
 
 ## Team
 
-[Vertrak](https://github.com/Vertrak), [keanucode](https://github.com/keanuplayz), [TLC](https://github.com/TLChicken), [Jmak](https://github.com/jmakxd), [dorothyoka](https://github.com/dististik)
-
-## Contributors
-
-Citric.K, Crimson_fox
+[Vertrak](https://github.com/Vertrak), [keanucode](https://github.com/keanuplayz), [TLC](https://github.com/TLChicken), [Jmak](https://github.com/jmakxd), [dorothyoka](https://github.com/dististik), Citric.K, Crimson_fox
 
 ## Project Progress
 
