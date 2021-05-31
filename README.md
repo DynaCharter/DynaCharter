@@ -2,7 +2,7 @@
 
 # DynaCharter
 
-DynaCharter is a fanmade charting tool (inspired by Dynamix, Dynamite and DynaMaker) that allows you to create
+DynaCharter is a charting tool (inspired by Dynamix, Dynamite and DynaMaker) that allows you to create
 fanmade charts and upload to Dynamite.
 
 ## Supported Platforms
