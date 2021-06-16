@@ -1,9 +1,6 @@
 //call on startup
 function init()
 {
-	var i;
-	for(i = 0; i <= 80; i++)
-		console.log(i/20);
 	var body = document.body;
 	body.style.backgroundColor = "#000000";
 	body.style.margin = "0px";
@@ -25,7 +22,7 @@ function init()
 	
 	var sub = document.createElement("input");
 	sub.type = "button";
-	sub.onclick = submitMusic;
+	sub.onclick = submitFiles;
 	
 	musicForm.appendChild(mFile);
 	musicForm.appendChild(cFile);
